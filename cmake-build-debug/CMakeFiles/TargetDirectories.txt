@@ -1,0 +1,3 @@
+/Users/charlesbta/Documents/GitHub/convertiseur-baseX/cmake-build-debug/CMakeFiles/convertiseur_baseX.dir
+/Users/charlesbta/Documents/GitHub/convertiseur-baseX/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charlesbta/Documents/GitHub/convertiseur-baseX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
